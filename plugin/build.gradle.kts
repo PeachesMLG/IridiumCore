@@ -10,7 +10,7 @@ dependencies {
     implementation("com.fasterxml.jackson.core:jackson-core:2.18.2")
     implementation("com.fasterxml.jackson.core:jackson-annotations:2.18.2")
     implementation("com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.18.2")
-    implementation("com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.18.2")
+    implementation("com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.18.3")
     implementation("org.yaml:snakeyaml:2.4")
     implementation("io.papermc:paperlib:1.0.8")
     implementation("org.apache.commons:commons-lang3:3.17.0")
